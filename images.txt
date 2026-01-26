@@ -29,4 +29,6 @@
 #hyperf/hyperf:8.3-alpine-v3.22-swoole-v6
 #nacos/nacos-server:v2.1.2
 #nacos/nacos-peer-finder-plugin:1.1
-nginx:1.21.1
+#nginx:1.21.1
+prom/prometheus:v3.5.1
+grafana/grafana:12.4.0-21230963995
