@@ -37,5 +37,6 @@
 #gitlab/gitlab-ce:18.10.1-ce.0
 #gitlab/gitlab-ce:17.11.7-ce.0
 #grafana/grafana:11.4.0
-vllm/vllm-openai:v0.20.1
+#vllm/vllm-openai:v0.20.1
 #prom/prometheus:v2.55.1
+gitlab/gitlab-ce:17.11.6-ce.0
