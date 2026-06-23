@@ -39,4 +39,7 @@
 #grafana/grafana:11.4.0
 #vllm/vllm-openai:v0.20.1
 #prom/prometheus:v2.55.1
-gitlab/gitlab-ce:17.11.6-ce.0
+#gitlab/gitlab-ce:17.11.6-ce.0
+nginx:1.27-alpine
+node:20-alpine
+python:3.11-slim
